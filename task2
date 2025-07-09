@@ -1,0 +1,36 @@
+ Task 2: AI-Driven IoT Concept  Smart Agriculture System
+ 1-Page Proposal Summary
+Title: AI-Powered Smart Agriculture with IoT Sensors
+
+Objective: Improve yield prediction and reduce water/fertilizer waste using AI-driven IoT data collection.
+
+ Sensors Needed:
+Sensor Type	Purpose
+Soil Moisture	Monitor hydration needs
+DHT11	Track temperature and humidity
+Light Sensor	Measure sunlight exposure
+Rain Gauge	Capture precipitation levels
+Soil pH Sensor	Ensure optimal nutrient absorption
+
+ AI Model:
+Model Type: Random Forest or XGBoost
+
+Inputs: Sensor data + historical crop data
+
+Output: Crop yield prediction per acre/hectare
+
+ Data Flow Diagram (Text Description)
+plaintext
+Copy
+Edit
+[IoT Sensors] 
+   ↓
+[Edge Device or Gateway (Raspberry Pi)]
+   ↓
+[Cloud Server or Local AI Module]
+   ↓
+[Trained AI Model (e.g., Random Forest)]
+   ↓
+[Yield Prediction + Dashboard Alerts]
+(You can sketch this using draw.io or PowerPoint for submission — or ask me to generate an image.)
+

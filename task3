@@ -1,0 +1,8 @@
+ Task 3: Ethics in Personalized Medicine (300 words)
+Title: Bias and Fairness in AI-Based Personalized Cancer Treatment
+
+AI models trained on genomic data from datasets like the Cancer Genomic Atlas (TCGA) have revolutionized cancer treatment by offering personalized therapy recommendations. However, ethical issues such as data bias pose serious concerns.
+
+A primary source of bias is ethnic underrepresentation. TCGA primarily includes data from individuals of European descent, while minorities — including African, Asian, and Indigenous populations — are significantly underrepresented. This leads to AI models that perform well on one group but inaccurately recommend treatments for others, potentially worsening health disparities.
+
+Additionally, algorithmic opacity in complex AI models like deep neural networks makes it difficult to explain how treatment decisions are made. Patients may struggle to trust or challenge these decisions, especially when they don’t reflect their lived experience or biology.
